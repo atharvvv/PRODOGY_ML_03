@@ -1,4 +1,4 @@
-# PRODOGY_ML_03
+# PRODIGY_ML_03
 Welcome to the Cat vs Dog Image Classifier project! This project utilizes Support Vector Machines (SVMs) to distinguish between images of cats and dogs. Whether you're a machine learning enthusiast or just a pet lover, this project showcases the magic behind AI-driven image classification.
 
 ## Table of Contents
@@ -10,7 +10,7 @@ Welcome to the Cat vs Dog Image Classifier project! This project utilizes Suppor
 
 
 ## Installation
-1. Clone the repository: "https://github.com/atharvvv/PRODOGY_ML_03"
+1. Clone the repository: "https://github.com/atharvvv/PRODIGY_ML_03"
 
 ## Features
 1. High Accuracy: Our model achieves impressive accuracy in distinguishing between cat and dog images.
